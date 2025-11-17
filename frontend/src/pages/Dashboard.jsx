@@ -306,7 +306,7 @@ const handleAddTask = async (e) => {
                 </svg>
               </button>
               <div className="w-8 h-8 bg-[#5A9690] rounded-full flex items-center justify-center">
-                <span className="text-white text-sm font-semibold">JD</span>
+                <span className="text-white text-sm font-semibold">User</span>
               </div>
             </div>
           </div>
